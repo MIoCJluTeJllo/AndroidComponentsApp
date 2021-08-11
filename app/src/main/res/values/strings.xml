@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Stylist</string>
+    <string name="add_appointment_button">add appointment</string>
+    <string name="fragment_title">Прибыль за период:</string>
+
+    <string name="time0_30">0:30</string>
+    <string name="time1_00">1:00</string>
+    <string name="time1_30">1:30</string>
+    <string name="time2_00">2:00</string>
+    <string name="time2_30">2:30</string>
+    <string name="time3_00">3:00</string>
+
+    <string name="coloring">окрашивание</string>
+    <string name="roots_coloring">окрашивание корней</string>
+    <string name="haircut">стрижка</string>
+    <string name="tinting">тонирование</string>
+    <string name="illumination">иллюминирование</string>
+    <string name="ampoule">ампула</string>
+    <string name="mask">маска</string>
+    <string name="keratin">кератирование</string>
+
+    <string name="short_hair">короткие</string>
+    <string name="medium_hair">средние</string>
+    <string name="long_hair">длинные</string>
+
+    <string name="expense_add_title">Добавлени расхода</string>
+    <string name="income_add_title">Добавление прибыли</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
